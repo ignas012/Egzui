@@ -1,0 +1,7 @@
+pip install factor-analyzer
+pip install pandas
+pip install scipy
+pip install matplotlib
+pip install sklearn3
+pip install seaborn
+pip install numpy
